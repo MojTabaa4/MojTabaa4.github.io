@@ -6,7 +6,7 @@
     "email": "mojtabablue12@gmail.com",
     "phone": "+989022383391",
     "url": "https://mojtabaa4.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -26,8 +26,8 @@
     {
       "institution": "University of Tehran, Tehran, Iran",
       "url": "https://ut.ac.ir/en",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor of Science",
+      "area": "",
+      "studyType": "Bachelor of Science in Computer Engineering",
       "startDate": "Sep 2019",
       "endDate": "Aug 2023",
       "score": "",
@@ -47,17 +47,67 @@
       ]
     }
   ],
-  "work": [
+  "research experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "title": "Undergraduate research assistant at the University of Tehran",
+      "supervisor": "Dr. Kazim Fouladi",
+      "supervisor_url": "https://scholar.google.ca/citations?hl=en&user=YLOcZDUAAAAJ",
+      "startDate": "Sep 2022",
+      "endDate": "Feb 2023",
+      "summary": "I collected 100,000 comments on Amazon clothing products and developed a unique CNN-LSTM model for sentiment analysis. The model outperformed NB, SVM, LR, CNN, and LSTM models, achieving higher accuracy."
+    }
+  ],
+  "teaching experience": [
+    {
+      "course_name": "Artificial Intelligence",
+      "instructor": "Dr. Kazim Fouladi",
+      "instructor_url": "https://scholar.google.ca/citations?hl=en&user=YLOcZDUAAAAJ",
+      "startDate": "Oct 2022",
+      "endDate": "Feb 2023",
+      "responsibility": "Providing Support and Answering Students’ Questions - Designing Course Materials and Exams - Grading Projects"
+    },
+    {
+      "course_name": "Advanced Programming",
+      "instructor": "Dr. Zahra Movahedi",
+      "instructor_url": "https://scholar.google.fr/citations?user=ZDiPlKYAAAAJ&hl=en",
+      "startDate": "Oct 2022",
+      "endDate": "Feb 2023",
+      "responsibility": "Helping students with Coding - Curriculum Development - Giving Feedback to the Instructor on Ways to Improve the Course."
+    },
+    {
+      "course_name": "Signals and Systems",
+      "instructor": "Dr. Hossein Aghababa",
+      "instructor_url": "https://scholar.google.com/citations?hl=en&user=NBD4tqgAAAAJ",
+      "startDate": "Jan 2023",
+      "endDate": "Jul 2023",
+      "responsibility": "Helping Students with their Assignments - Holding Practice Solving Classes - Designing Course Materials and Exams - Curriculum Development"
+    },
+    {
+      "course_name": "Computer-Aided Digital System Design",
+      "instructor": "Dr. Hossein Aghababa",
+      "instructor_url": "https://scholar.google.com/citations?hl=en&user=NBD4tqgAAAAJ",
+      "startDate": "Jan 2023",
+      "endDate": "Jul 2023",
+      "responsibility": "Helping Students with their Assignments - Holding Practice Solving Classes - Designing Course Materials and Exams - Curriculum Development"
+    },
+    {
+      "course_name": "Computer Architecture",
+      "instructor": "Dr. Mahdi Seyfipoor",
+      "instructor_url": "https://www.linkedin.com/in/mahdi-seyfipoor-baba2857/",
+      "startDate": "Jan 2023",
+      "endDate": "Jul 2023",
+      "responsibility": " Providing Support and Guidance to students throughout the course - Grading Assignments"
+    }
+  ],
+  "work experience": [
+    {
+      "name": "SnappFood",
+      "position": "Software Engineer",
+      "url": "",
+      "company_url": "https://www.linkedin.com/company/snappfood/about/",
+      "startDate": "Feb 2021",
+      "endDate": "Sep 2023",
+      "summary": "Collaborating cross-functionally with business users, project managers and other engineers to implement practical solutions. I optimized order assignments and enhanced trip assignments using machine learning, optimization algorithms, and coroutine-based concurrency. I also refactored legacy codes, upgraded the framework, and onboarded new team members. "
     }
   ],
   "volunteer": [],

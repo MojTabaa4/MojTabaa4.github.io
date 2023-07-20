@@ -87,8 +87,12 @@ layout: default
               {% include resume/basics.html %}
             {% when "education" %}
               {% include resume/education.html %}
-            {% when "work" %}
+            {% when "work experience" %}
               {% include resume/work.html %}
+            {% when "teaching experience" %}
+              {% include resume/teaching_exp.html %}
+            {% when "research experience" %}
+              {% include resume/research_exp.html %}
             {% when "volunteer" %}
               {% include resume/volunteer.html %}
             {% when "projects" %}
