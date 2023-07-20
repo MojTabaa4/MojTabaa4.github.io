@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: my_img.jpg
   image_circular: false # crops the image to make it circular
-  address: 
+  address:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -16,14 +16,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can
-put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Greetings! My name is **Mojtaba Abtahi**, and I am currently pursuing a Bachelor of Science degree in Computer
+Engineering at the University of Tehran, achieving a cumulative GPA of 3.91 out of 4.0 scale, with a perfect GPA of 4/4
+in the last two academic years.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by
-editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will
-render your [publications page](/al-folio/publications/) automatically.
+As a research assistant, I had the privilege to collaborate with my supervisors on a project that involved sentiment
+analysis of Amazon clothing product reviews, where I gained hands-on experience in machine learning and natural language
+processing techniques. Throughout my academic journey, I have undertaken several projects that challenged me to solve
+real-world problems using various programming languages and tools.
 
-Link to your social media connections, too. This theme is set up to
-use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/)
-and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn,
-Google Scholar, or just disable all of them.
+Furthermore, my professional experience as a Software Engineer at Snappfood company enhanced my understanding of
+software development practices, where I designed and developed software solutions by analyzing user requirements, system
+performance, and data usage. Additionally, I have taken relevant courses in **software engineering** and software
+testing, which have enabled me to apply my theoretical knowledge in practical settings.
+
+I am also passionate about reading research papers and developing my scientific writing skills. I am eager to continue
+exploring the fields of **machine learning** and **natural language processing**, and I am excited to participate in
+research opportunities that advance the state-of-the-art in these areas.
