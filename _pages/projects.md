@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description:
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [All, MACHINE LEARNING, WEB APPLICATION, OPERATING SYSTEMS, COMPUTER VISION]
 horizontal: false
 ---
