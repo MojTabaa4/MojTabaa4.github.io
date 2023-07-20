@@ -113,10 +113,22 @@
   "volunteer": [],
   "honors": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "description": "Awarded Tuition-Waiver at University of Tehran"
+    },
+    {
+      "description": "Recognized as an exceptional talent student, ranking in top 5% amongst undergraduates with GPA of 3.91 out of 4.0 scale based on academics"
+    },
+    {
+      "description": "Direct merit-based admission to the master’s program at the Sharif University of Technology and the University of Tehran"
+    },
+    {
+      "description": "Attending in the National Olympiad Competition for Computer Science"
+    },
+    {
+      "description": "Selected as a software engineering intern at Snappfood (leading online food ordering company in Iran and the ultimate food delivery part of Snapp company)"
+    },
+    {
+      "description": "Winner of the 2022 Snappfood Hackathon"
     }
   ],
   "certificates": [],
