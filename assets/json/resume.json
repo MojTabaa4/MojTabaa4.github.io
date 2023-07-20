@@ -45,8 +45,19 @@
       "startDate": "Sep 2019",
       "endDate": "Aug 2023",
       "score": "",
+
+      "cgpaScore": "3.91/4 (18.51/20)",
+      "cgpaL2YScore": "4/4 (19.36/20)",
+
+      "supervisor": "Dr. Kazim Fouladi",
+      "supervisor_link": "https://scholar.google.ca/citations?hl=en&user=YLOcZDUAAAAJ",
+
       "courses": [
-        "Theory of Relativity"
+        "Artificial Intelligence (19/20)",
+        "Data Structures (20/20)",
+        "Foundations of Speech and Natural Language Processing (20/20)",
+        "Foundations of Computer Vision (20/20)",
+        "Software Engineering (19.23/20)"
       ]
     }
   ],
