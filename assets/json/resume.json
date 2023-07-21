@@ -42,8 +42,8 @@
         "Artificial Intelligence (19/20)",
         "Data Structures (20/20)",
         "Foundations of Speech and Natural Language Processing (20/20)",
-        "Foundations of Computer Vision (20/20)",
-        "Software Engineering (19.23/20)"
+        "Software Engineering (19.23/20)",
+        "Foundations of Computer Vision (20/20)"
       ]
     }
   ],
@@ -119,7 +119,7 @@
       "description": "Recognized as an exceptional talent student, ranking in top 5% amongst undergraduates with GPA of 3.91 out of 4.0 scale based on academics"
     },
     {
-      "description": "Direct merit-based admission to the master’s program at the Sharif University of Technology and the University of Tehran"
+      "description": "Winner of the University of Tehran M.Sc. Fellowship Award, I was granted direct merit-based admission to the master's program at both the Sharif University of Technology and the University of Tehran without having to take the graduate entrance exam."
     },
     {
       "description": "Attending in the National Olympiad Competition for Computer Science"
@@ -133,7 +133,133 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "level": "1",
+      "icon": "fa fa-code",
+      "name": "Programming Languages",
+      "items": [],
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "C",
+        "PHP",
+        "JavaScript",
+        "SQL",
+        "Bash Script"
+      ]
+    },
+    {
+      "level": "1",
+      "icon": "fa fa-code-fork",
+      "name": "Web Development",
+      "items": [],
+      "keywords": [
+        "Django",
+        "Flask",
+        "FastAPI",
+        "Laravel",
+        "Angular",
+        "APIs (REST, gRPC)",
+        "Redis",
+        "RabbitMQ",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "level": "1",
+      "icon": "fa fa-cogs",
+      "name": "AI and Data Science",
+      "items": [
+        "Python Libraries"
+      ],
+      "keywords": [
+        "TensorFlow",
+        "Keras",
+        "Pandas",
+        "Numpy",
+        "SKlearn",
+        "NLTK",
+        "OpenCV"
+      ]
+    },
+    {
+      "level": "1",
+      "icon": "fa fa-database",
+      "name": "Database",
+      "items": [],
+      "keywords": [
+        "MySQL",
+        "SQL Server",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "level": "1",
+      "icon": "fa fa-cogs",
+      "name": "Technologies",
+      "items": [],
+      "keywords": [
+        "Git",
+        "Docker",
+        "VIM",
+        "Jupyter Notebook",
+        "JetBrains IDEs (Pycharm, Clion, IntelliJ)",
+        "VS Code",
+        "MATLAB",
+        "Maven"
+      ]
+    },
+    {
+      "level": "1",
+      "icon": "fa fa-laptop-code",
+      "name": "Software Engineering",
+      "items": [],
+      "keywords": [
+        "Object-oriented design patterns",
+        "Software development methodologies",
+        "Debugging and troubleshooting",
+        "SOLID principles",
+        "project tracking software (Jira, Trello)",
+        "Software testing"
+      ]
+    },
+    {
+      "level": "1",
+      "icon": "fa fa-server",
+      "name": "Operating Systems",
+      "items": [],
+      "keywords": [
+        "Linux (Ubuntu)",
+        "MacOS",
+        "Windows"
+      ]
+    },
+    {
+      "level": "1",
+      "icon": "fa fa-spider",
+      "name": "Web Scrapping",
+      "items": [],
+      "keywords": [
+        "Scrapy",
+        "Beautiful Soup"
+      ]
+    },
+    {
+      "level": "1",
+      "icon": "fa fa-users",
+      "name": "Interpersonal skills",
+      "items": [],
+      "keywords": [
+        "Team working",
+        "Teaching",
+        "Self-Learning",
+        "Problem-Solving"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "Persian",
