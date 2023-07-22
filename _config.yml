@@ -7,9 +7,7 @@ first_name: Mojtaba
 middle_name:
 last_name: Abtahi
 email: mojtabablue12@gmail.com
-description:
-#description: > # the ">" symbol means to ignore newlines until "footer_text:"
-#  A simple, whitespace theme for academics.
+description: My website
 footer_text:
 
 keywords: academic-website, portfolio-website  # add your own keywords or leave empty
