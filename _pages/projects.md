@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 #display_categories: [All, MACHINE LEARNING, WEB APPLICATION, OPERATING SYSTEMS, COMPUTER VISION]
 display_categories: 
-is_active: false
+is_active: true
 horizontal: false
 ---
 
@@ -53,7 +53,9 @@ horizontal: false
       {%- else -%}
       <div class="grid">
         {%- for project in sorted_projects -%}
-          {% include projects.html %}
+            {% if project.proj_is_active -%}         
+                {% include projects.html %}
+            {%- endif -%}
         {%- endfor %}
       </div>
       {%- endif -%}

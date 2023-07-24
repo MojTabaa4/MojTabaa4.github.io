@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Lane Detection
+description: This project provides a Python implementation for lane detection using OpenCV library. It uses the Hough Transform algorithm to detect lines in video frames and draw the final lane lines on the original frames.
+img: assets/img/p1.png
+redirect: https://github.com/MojTabaa4/lane-detection-on-roads
 importance: 3
-category: work
+category: computer_vision
+proj_is_active: true
 ---
 
 Every project has a beautiful feature showcase page.
