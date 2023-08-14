@@ -21,14 +21,14 @@ the [University of Tehran](https://www.usnews.com/education/best-global-universi
 with a B.Sc. degree in Computer Engineering, achieving a cumulative GPA of 3.91 out of 4.0 scale, with a perfect GPA of
 4/4 in the last two academic years.
 
-I collaborated as a research assistant on a sentiment analysis project of Amazon clothing reviews, gaining experience in
-machine learning and natural language processing. I also completed multiple real-world problem-solving projects using
-various programming languages and tools during my academic journey.
+Throughout my undergraduate studies, I developed a strong proficiency in Python and its associated libraries and
+frameworks, which encompassed NumPy, Pandas, Matplotlib, OpenCV, PyTorch, and TensorFlow. These skills were put to
+practical use in numerous projects involving **machine learning**, **deep learning**, **natural language processing**, and **software
+development**. Some of the applications I worked on included object detection, machine translation, text summarization,
+text classification, and sentiment analysis.
 
-Furthermore, my experience as a **Software Engineer** at Snappfood involved designing and developing software solutions
-by analyzing user requirements, system performance, and data usage. I have also taken relevant courses in software
-engineering and software testing.
+As a Software Engineer at Snappfood, I designed and developed software solutions by analyzing user requirements, system
+performance, and data usage. I also have relevant coursework in software engineering and testing.
 
-I am also passionate about reading research papers and developing my scientific writing skills. I am eager to continue
-exploring the fields of **machine learning and artificial intelligence** and **natural language processing**, and I am
-excited to participate in research opportunities that advance the state-of-the-art in these areas.
+I am deeply passionate about engaging in research, exemplified by my active participation in two projects centered
+around sentiment analysis and chatbot development.
