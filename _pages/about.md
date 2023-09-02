@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Greetings! My name is **Mojtaba Abtahi**, and I am a graduate of
-the [University of Tehran](https://www.usnews.com/education/best-global-universities/university-of-tehran-504903){: onclick="gtag('event', 'click', {'event_category': 'UniRank Link', 'event_label': 'UoT'});"}
+the [University of Tehran](https://www.usnews.com/education/best-global-universities/university-of-tehran-504903)
 with a B.Sc. degree in Computer Engineering, achieving a cumulative GPA of 3.91 out of 4.0 scale, with a perfect GPA of
 4/4 in the last two academic years.
 
