@@ -1,5 +1,5 @@
             {%- if site.email -%}
-            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+            <a href="mailto:{{ site.email | encode_email }}" onclick="gtag('event', 'click', {'event_category': 'Contact Link', 'event_label': 'Email'});" title="email"><i class="fas fa-envelope"></i></a>
             {% endif %}
             {%- if site.telegram_username -%}
             <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fab fa-telegram"></i></a>
@@ -32,10 +32,10 @@
             <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}" title="Scopus"><i class="ai ai-scopus"></i></a>
             {% endif %}
             {%- if site.github_username -%}
-            <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
+            <a href="https://github.com/{{ site.github_username }}" onclick="gtag('event', 'click', {'event_category': 'Contact Link', 'event_label': 'GitHub'});" title="GitHub"><i class="fab fa-github"></i></a>
             {% endif %}
             {%- if site.linkedin_username -%}
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" onclick="gtag('event', 'click', {'event_category': 'Contact Link', 'event_label': 'LinkedIn'});" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             {% endif %}
             {%- if site.twitter_username -%}
             <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fab fa-twitter"></i></a>
@@ -101,7 +101,7 @@
             <a href="https://youtube.com/@{{ site.youtube_id }}" title="YouTube"><i class="fab fa-youtube"></i></a>
             {% endif %}
             {% if site.skype_id %}
-            <a href="skype:{{ site.skype_id }}?chat" title="Skype"><i class="fab fa-skype"></i></a>
+            <a href="skype:{{ site.skype_id }}?chat" onclick="gtag('event', 'click', {'event_category': 'Contact Link', 'event_label': 'Skype'});" title="Skype"><i class="fab fa-skype"></i></a>
             {% endif %}
             {% if site.phone_number %}
             <a href="tel:{{ site.phone_number }}" title="Phone"><i class="fas fa-phone"></i></a>
