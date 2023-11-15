@@ -24,13 +24,12 @@ As a research assistant, I have worked on Amazon reviews and comments on clothes
 assess people's tendencies toward specific kinds of products, and I am going to use my understanding in my dissertation.
 
 During my education, I have taken many courses about NLP and machine learning which enriched my viewpoint about
-different
-cutting-edge challenges in those topics, and also through my bachelor classes, I did many projects associated with
-deep-learning and software engineering practical problems and solved them with various tools and languages.
+different cutting-edge challenges in those topics, and also through my bachelor classes, I did many projects associated
+with deep-learning and software engineering practical problems and solved them with various tools and languages.
 
 These experiences give invaluable insight into my future career and motivate me to learn more about
 **machine learning**, **deep learning**, **natural language processing**, and **software engineering**.
 
 When I was working as a Software Engineer at Snappfood, I designed and developed software solutions by analyzing user
-requirements through iterative cycles, system performance, and data usage in a software management methodology. I used ML
-algorithms in some of my tasks and have read books in software engineering and testing.
+requirements through iterative cycles, system performance, and data usage in a software management methodology. I used
+ML algorithms in some of my tasks and have read books in software engineering and testing.
