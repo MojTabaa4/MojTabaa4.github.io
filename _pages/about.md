@@ -16,19 +16,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings! My name is **Mojtaba Abtahi**, and I am a graduate of
+Greetings! My name is **Mojtaba Abtahi**, a B.Sc. Computer Engineering student at
 the [University of Tehran](https://www.usnews.com/education/best-global-universities/university-of-tehran-504903)
-with a B.Sc. degree in Computer Engineering, achieving a cumulative GPA of 3.91 out of 4.0 scale, with a perfect GPA of
-4/4 in the last two academic years.
+with a GPA of 3.91/4 and 4/4 in the last two years.
 
-Throughout my undergraduate studies, I developed a strong proficiency in Python and its associated libraries and
-frameworks, which encompassed NumPy, Pandas, Matplotlib, OpenCV, PyTorch, and TensorFlow. These skills were put to
-practical use in numerous projects involving **machine learning**, **deep learning**, **natural language processing**, and **software
-development**. Some of the applications I worked on included object detection, machine translation, text summarization,
-text classification, and sentiment analysis.
+As a research assistant, I have worked on Amazon reviews and comments on clothes with the aid of my supervisors to
+assess people's tendencies toward specific kinds of products, and I am going to use my understanding in my dissertation.
 
-As a Software Engineer at Snappfood, I designed and developed software solutions by analyzing user requirements, system
-performance, and data usage. I also have relevant coursework in software engineering and testing.
+During my education, I have taken many courses about NLP and machine learning which enriched my viewpoint about
+different
+cutting-edge challenges in those topics, and also through my bachelor classes, I did many projects associated with
+deep-learning and software engineering practical problems and solved them with various tools and languages.
 
-I am deeply passionate about engaging in research, exemplified by my active participation in two projects centered
-around sentiment analysis and chatbot development.
+These experiences give invaluable insight into my future career and motivate me to learn more about
+**machine learning**, **deep learning**, **natural language processing**, and **software engineering**.
+
+When I was working as a Software Engineer at Snappfood, I designed and developed software solutions by analyzing user
+requirements through iterative cycles, system performance, and data usage in a software management methodology. I used ML
+algorithms in some of my tasks and have read books in software engineering and testing.
